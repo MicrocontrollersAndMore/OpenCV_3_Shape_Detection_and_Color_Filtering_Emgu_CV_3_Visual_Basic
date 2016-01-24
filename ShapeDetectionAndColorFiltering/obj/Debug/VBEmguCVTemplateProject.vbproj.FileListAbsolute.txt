@@ -1,0 +1,6 @@
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\bin\Debug\VBEmguCVTemplateProject.exe.config
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\obj\Debug\VBEmguCVTemplateProject.vbprojResolveAssemblyReference.cache
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\obj\Debug\VBEmguCVTemplateProject.frmMain.resources
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\obj\Debug\VBEmguCVTemplateProject.Resources.resources
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\obj\Debug\VBEmguCVTemplateProject.vbproj.GenerateResource.Cache
+C:\Users\cdahms\Documents\Visual Studio 2015\Projects\VBEmguCVTemplateProject\obj\Debug\VBEmguCVTemplateProject.xml
